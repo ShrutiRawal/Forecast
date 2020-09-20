@@ -8,6 +8,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Current Weather Fragment" />
+        android:text="Current Weather Fragment"
+        android:id="@+id/current"/>
 
 </FrameLayout>
